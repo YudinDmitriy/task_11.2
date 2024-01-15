@@ -1,4 +1,5 @@
 def upper_func(str):
+    """test for conflict"""
     up_str = str.upper()
     return up_str
 
